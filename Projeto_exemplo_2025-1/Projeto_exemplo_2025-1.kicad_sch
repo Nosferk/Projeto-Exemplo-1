@@ -975,7 +975,7 @@
     (property "Value" "Conn_01x02" (at 64.77 87.63 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 64.77 92.71 0)
+    (property "Footprint" "Projeto_exemplo_2025-1:KRE" (at 64.77 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 64.77 92.71 0)
