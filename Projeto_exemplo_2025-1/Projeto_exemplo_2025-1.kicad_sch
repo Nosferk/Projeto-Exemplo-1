@@ -1001,7 +1001,7 @@
     (property "Value" "2k" (at 83.82 108.585 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 86.36 106.68 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Piher_T-16H_Single_Horizontal" (at 86.36 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 86.36 106.68 0)
